@@ -10,8 +10,10 @@ You can click the Preview link to take a look at your changes.
 
 This study focuses on the application of deep learning algorithms to land use classification.
 
-The dataset can be obtained from data folder
+The dataset can be obtained from the folder named data
 
-Relevant algorithms and Plot codes can be obtained from Algorithm folder and Plot folder
+The algorithms can be obtained from the folder named Algorithm
+
+The Plot can be obtained from the folder named Plot
 
 If you have any questions, please contact me and I will be happy to solve your problems.
