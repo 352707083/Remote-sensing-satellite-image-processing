@@ -12,6 +12,6 @@ This study focuses on the application of deep learning algorithms to land use cl
 
 The dataset can be obtained from data folder
 
-Relevant algorithms and Plot codes are obtained from Algorithm folder and Plot folder
+Relevant algorithms and Plot codes can be obtained from Algorithm folder and Plot folder
 
 If you have any questions, please contact me and I will be happy to solve your problems.
